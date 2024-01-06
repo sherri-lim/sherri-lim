@@ -1,0 +1,5 @@
+- Hi, I’m Sherri!
+- I'm a second year student at Singapore University of Technology and Design, about to embark on my major specialisation in Business Analytics and Operations Research.
+- I am skilled in Python and Microsoft Excel and in my free time, have delved into SQL, Microsoft Power BI, and R.
+- I have prior experience in reporting writing, statistical data analysis and writing prediction models using regression.
+- Looking forward to working with you! 
